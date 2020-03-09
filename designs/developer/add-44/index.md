@@ -17,7 +17,7 @@ The basic visuals and behavior of this card view is consistent with that of the 
 There are 6 Add Flows for adding an application, component or service. Each flow has different subsections.
 
 ### From Git
-Design documentation for the From Git scenario when creating a source secret can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/From-Git/Import-from-git) 
+Design documentation for the From Git scenario when creating a source secret can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/From-Git/Import-from-git)
 
 ### Container Image
 Design documentation for the Container Image git can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-44/Container-Image/Deploy-Image)
@@ -46,7 +46,7 @@ Design documentation for the General section can be found[here](https://openshif
 Documentation about this section can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-43/sections/resources/resources)
 
 ### Pipelines
-The Pipelines section is available when the Pipelines operator is installed. Design documentation for the Pipelines section found can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-43/sections/pipelines/pipelines).
+The Pipelines section is available when the Pipelines operator is installed. Design documentation for the Pipelines section found can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-43/sections/pipelines/pipelines)
 
 ### Advanced Options
 There are a number of Advanced Options which are available, based on the flow:
