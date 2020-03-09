@@ -20,10 +20,10 @@ There are 6 Add Flows for adding an application, component or service. Each flow
 Design documentation for the From Git scenario when creating a source secret can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/From-Git/Import-from-git)
 
 ### Container Image
-Design documentation for the Container Image git can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/Container-Image/Deploy-Image)
+Design documentation for the Container Image git can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-44/Container-Image/Deploy-Image)
 
 ### From Catalog
-Design documentation for the items From Catalog can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/From-Catalog/Add-from-catalog)
+Design documentation for the items From Catalog can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add-44/From-Catalog/Add-from-catalog)
 
 ### From Dockerfile
 Design documentation for the From Dockerfile can be found [here](https://openshift.github.io/openshift-origin-design/designs/developer/add/From-Dockerfile/Import-from-Dockerfile)
